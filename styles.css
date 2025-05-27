@@ -5,7 +5,8 @@
     background: linear-gradient(to right, #af00ff, #12ff12);
     background-clip: text;
     color: transparent;
-    text-shadow: linear-gradient(toright, 8a00af, #12af12)
+    text-shadow: linear-gradient(to right, #8a00af, #12af12);
+	padding-bottom: 5px;
 }
 h1 {
   animation-duration: 1.5s;
@@ -29,5 +30,7 @@ h1 {
 	word-spacing: 1px;
 	font-family: comic-sans;
 	line-height: 6px;
-	translate: 150vw 0;
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 5px;
 }
