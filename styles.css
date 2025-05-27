@@ -7,6 +7,12 @@
     color: transparent;
     text-shadow: linear-gradient(to right, #8a00af, #12af12);
 }
+.body {
+	text-indent: 12px;
+	font-size: 120%;
+	word-spacing: 1px;
+	font-family: comic-sans;
+}
 h1 {
   animation-duration: 1.5s;
   animation-name: slide-in;
@@ -22,11 +28,4 @@ h1 {
     translate: 0 0;
     scale: 100% 1;
   }
-}
-.body {
-	text-indent: 12px;
-	font-size: 120%;
-	word-spacing: 1px;
-	font-family: comic-sans;
-	line-height: 6px;
 }
