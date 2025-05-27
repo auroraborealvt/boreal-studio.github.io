@@ -6,7 +6,6 @@
     background-clip: text;
     color: transparent;
     text-shadow: linear-gradient(to right, #8a00af, #12af12);
-	padding-bottom: 5px;
 }
 h1 {
   animation-duration: 1.5s;
@@ -32,5 +31,4 @@ h1 {
 	line-height: 6px;
 	padding-left: 75px;
 	padding-right: 75px;
-	padding-top: 5px;
 }
