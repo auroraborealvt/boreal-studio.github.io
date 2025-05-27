@@ -9,10 +9,7 @@
     text-shadow-clip: text-shadow;
 }
 .body {
-	text-indent: 12px;
 	font-size: 125%;
-	word-spacing: 1px;
-	font-family: comic-sans;
 }
 h1 {
   animation-duration: 1.5s;
