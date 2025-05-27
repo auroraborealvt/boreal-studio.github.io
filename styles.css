@@ -6,6 +6,7 @@
     background-clip: text;
     color: transparent;
     text-shadow: linear-gradient(to right, #8a00af, #12af12);
+    text-shadow-clip: text-shadow;
 }
 .body {
 	text-indent: 12px;
