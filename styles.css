@@ -1,0 +1,31 @@
+.header {
+	font-famiy: comic-sans;
+    text-align: center;
+    font-size: 350%;
+    background: linear-gradient(to right, #af00ff, #12ff12);
+    background-clip: text;
+    color: transparent;
+    text-shadow: linear-gradient(toright, 8a00af, #12af12)
+}
+h1 {
+  animation-duration: 1.5s;
+  animation-name: slide-in;
+}
+
+@keyframes slide-in {
+  from {
+    translate: 150vw 0;
+    scale: 200% 1;
+  }
+
+  to {
+    translate: 0 0;
+    scale: 100% 1;
+  }
+}
+.body {
+	text-indent: 12px;
+    font-size: 120%;
+    word-spacing: 1px;
+    font-family: comic-sans;
+}
