@@ -25,7 +25,8 @@ h1 {
 }
 .body {
 	text-indent: 12px;
-    font-size: 120%;
-    word-spacing: 1px;
-    font-family: comic-sans;
+	font-size: 120%;
+	word-spacing: 1px;
+	font-family: comic-sans;
+	line-height: 6px;
 }
