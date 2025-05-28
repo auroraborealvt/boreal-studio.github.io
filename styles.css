@@ -5,8 +5,6 @@
     background: linear-gradient(to right, #af00ff, #12ff12);
     background-clip: text;
     color: transparent;
-    text-shadow: linear-gradient(to right, #8a00af, #12af12);
-    text-shadow-clip: text-shadow;
 }
 .body {
 	font-size: 125%;
